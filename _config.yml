@@ -1,11 +1,11 @@
 # Site settings
-title: WNAG
-email: tsmyfau@163.com
+title: 101dogs
+email: 101dogs@163.com 
 description: > # this means to ignore newlines until "baseurl:"
-         Just a a blog to note these techniqual tips erevrday 
+         Just a a blog to note techniqual tips erevrday 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username: wnag
+github_username: 101dogs
 
 # Build settings
 markdown: kramdown
