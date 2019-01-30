@@ -1,1 +1,1 @@
-note everyday's technical tips
+WJ430981's blog recipes
